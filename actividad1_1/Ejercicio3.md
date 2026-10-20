@@ -2,16 +2,16 @@
 
 ## 1. Crear la rama `primera` y comprobarlo
 
-![captura1](imagenes/ej3cap1.png)
+![captura1](img/ej3cap1.png)
 
 
 El asterisco indica la rama activa (`main`). `primera` aparece en la lista, así que se ha creado.
 
 ## 2. Nuevo fichero en `primera` y fusión con la principal
 
-![captura2](imagenes/ej3cap2.png)
+![captura2](img/ej3cap2.png)
 
-![captura3](imagenes/ej3cap3.png)
+![captura3](img/ej3cap3.png)
 
 
 
@@ -19,16 +19,16 @@ El asterisco indica la rama activa (`main`). `primera` aparece en la lista, así
 
 ## 3. Borrar la rama `primera`
 
-![captura4](imagenes/ej3cap4.png)
+![captura4](img/ej3cap4.png)
 
 
 ## 4. Rama `segunda` y conflicto
 
 Se modifica la misma línea de `datos.txt` en `segunda` y en `main`:
 
-![captura5](imagenes/ej3cap5.png)
+![captura5](img/ej3cap5.png)
 
-![captura6](imagenes/ej3cap6.png)
+![captura6](img/ej3cap6.png)
 
 
 Salida:
