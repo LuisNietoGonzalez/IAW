@@ -24,7 +24,7 @@ saludar("mundo")
 
 [Ir a otro documento](Ejercicio1.md)
 
-![Imagen de ejemplo](imagenes/images.jpeg)
+![Imagen de ejemplo](img/images.jpeg)
 
 | Elemento | Sintaxis      | Ejemplo        |
 |----------|---------------|----------------|
