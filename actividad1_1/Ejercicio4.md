@@ -9,7 +9,7 @@ Un **pull request** es una petición que le haces al dueño de un repositorio pa
  
 ## Paso 1: Hacer un fork del repositorio
  
-![Captura1](imagenes/ej4cap2.png)
+![Captura1](img/ej4cap2.png)
  
 No puedo cambiar directamente el repositorio del profesor, así que primero hago un **fork**: una copia del repositorio en mi propia cuenta. Se ve arriba, donde pone `LuisNietoGonzalez / prueba-pr-iaw_202627`. Esa copia es mía y puedo modificarla libremente.
  
@@ -19,7 +19,7 @@ Después clono mi fork en el ordenador y creo una **rama nueva** (en mi caso `ra
  
 ## Paso 2: Modificar el `README.md`
  
-![Captura2](imagenes/ej4cap5.png)
+![Captura2](img/ej4cap5.png)
  
 Abro el `README.md` con `nano` y añado una línea nueva al final de la lista, con mis iniciales y un enlace a mi fichero:
  
@@ -33,7 +33,7 @@ Lo que va entre corchetes es el texto que se ve (mis iniciales) y lo que va entr
  
 ## Paso 3: Crear mi fichero `LNG.md`
  
-![Captura3](imagenes/ej4cap6.png)
+![Captura3](img/ej4cap6.png)
  
 Creo el fichero `LNG.md` dentro de la carpeta `files` y respondo a las tres preguntas: ¿quién eres?, ¿qué asignatura te gusta más? y ¿por qué?
  
@@ -49,7 +49,7 @@ Uso varias marcas de Markdown, más de las 5 que pide el enunciado:
  
 ## Paso 4: Commit y push
  
-![Captura4](imagenes/ej4cap4.png)
+![Captura4](img/ej4cap4.png)
  
 Guardo los cambios y los subo a GitHub con estos comandos:
  
@@ -66,7 +66,7 @@ git push --set-upstream origin ramaluis
  
 ## Paso 5: GitHub me ofrece crear el pull request
  
-![Captura5](imagenes/ej4cap1.png)
+![Captura5](img/ej4cap1.png)
  
 Al entrar en mi fork, GitHub detecta que acabo de subir una rama nueva y muestra el aviso amarillo con el botón verde **Compare & pull request**. Pulso ese botón para empezar la petición.
  
@@ -76,7 +76,7 @@ En esta captura también aparece **"This branch is 7 commits behind"**: signific
  
 ## Paso 6: Pull request creado
  
-![Captura6](imagenes/ej4cap3.png)
+![Captura6](img/ej4cap3.png)
  
 Aquí está el pull request **#16**, con estado **Open** (abierto):
  
